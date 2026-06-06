@@ -1,0 +1,11 @@
+The recent rapid growth of cloud service providers as more and more users and organizations are moving towards the 
+multi-cloud systems, so that data can be accessed from any part of the world but it poses a humongous problem related to
+security and privacy of data. Cloud industry needs robust data security system. This research study investigates the feasibility,
+challenges, and potential impacts of implementing an automated data deletion system, integrated with the capabilities of
+intrusion detection, in a multi-cloud environment. Through qualitative methods, the aim to understand the experiences,
+perspectives, and insights of key stakeholders involved in the deployment and operation of such systems. Data collection
+methods include surveys of focused groups with cloud security experts, IT managers, compliance officers, and developers and
+an in-depth analysis of existing models and architectures, internal reports, whitepapers, policy documents, compliance
+guidelines, and security incident records. This research provides an insight and in-depth understanding of the requirements of
+the individual users and stakeholders of various organizations and improving the overall efficiency of multi-cloud environments
+by implementing the proposed Automated Data Deletion System with Intrusion Detection System.
