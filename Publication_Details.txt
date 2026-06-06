@@ -1,0 +1,8 @@
+Title:
+Securing Multi-Cloud Environment: An Automated Data Deletion System with Integrated Intrusion Detection System Over Multi-Cloud Platforms
+
+Publication:
+International Journal of Computer Sciences and Engineering
+
+DOI:
+10.26438/ijcse/v12i7.3340
